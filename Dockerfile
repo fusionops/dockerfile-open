@@ -1,1 +1,1 @@
-FROM 'debian:latest'
+FROM 'docker.io/debian:latest'
